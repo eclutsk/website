@@ -55,7 +55,7 @@ See the long reply on [WebStandards](/archived/webstandards).
 
 Some of these are not complete replacements for ASP.NET, but they might be useful for your particular domain:
 
--   [Jitsu](http://www.jitsu.org/jitsu/) is a framework for building web applications.
+-   [Jitsu](http://www.jitsu.org/jitsu/) is a framework for building web applications. (Website Dead!)
 
 -   [Dream](http://doc.opengarden.org/) is a framework for building the backend of web applications by providing a very complete framework for building REST applications.
 
